@@ -1,0 +1,91 @@
+.panel-border {
+    border: 1px solid #DEDEDE;
+    padding: 20px;
+}
+
+.panel-border.border-transparent {
+    border-color: transparent;
+}
+.center-form-item .form-label {
+    width: 360px;
+}
+
+.center-form-item .form-bd {
+    margin-left: 360px;
+}
+
+.center-form-item .btn-save {
+    display: none;
+}
+.center-tit {
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+.center-tit .tit-name {
+    float: left;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+.pull-right {
+    float: right !important;
+}
+.search-form-mini .form-item {
+    float: left;
+    margin-right: 10px;
+    line-height: 30px;
+}
+
+.search-form-mini .form-item .btn {
+    vertical-align: top;
+}
+
+.search-form-mini .form-item .sel {
+    vertical-align: top;
+}
+.form-list .form-label {
+    float: left;
+    padding: 5px 5px 5px 0;
+    width: 100px;
+    line-height: 20px;
+    font-weight: 400;
+    color: #666;
+    text-align: right;
+}
+
+.form-list .form-label .required {
+    margin-right: 5px;
+}
+.form-list .form-bd {
+    margin-left: 100px;
+    min-height: 30px;
+}
+
+.form-list .form-bd-txt {
+    line-height: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    min-height: 20px;
+}
+
+.line-dashed {
+    height: 1px;
+    border-top: 1px dashed #DEDEDE;
+    margin: 15px 0;
+}
+
+.line-dashed-margin {
+    margin: 40px 0;
+}
+.center-form-item .form-label {
+    width: 360px;
+}
+
+.center-form-item .form-bd {
+    margin-left: 360px;
+}
+
+.center-form-item .btn-save {
+    display: none;
+}
